@@ -138,7 +138,7 @@ var grid = {
         .dataTable(grid.opcoes(form));
         if (typeof form === 'object') {
             form.unbind('submit').bind('submit', function(){
-                table.parents('.hidden').removeClass('hidden');
+                table.parents('.hide').removeClass('hide');
                 $('.alert').css('display', 'none');
                 table.fnDraw(false);
 

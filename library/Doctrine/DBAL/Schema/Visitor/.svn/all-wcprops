@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Schema/Visitor
+END
+Graphviz.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Schema/Visitor/Graphviz.php
+END
+CreateSchemaSqlCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Schema/Visitor/CreateSchemaSqlCollector.php
+END
+Visitor.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Schema/Visitor/Visitor.php
+END
+DropSchemaSqlCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Schema/Visitor/DropSchemaSqlCollector.php
+END
+RemoveNamespacedAssets.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Schema/Visitor/RemoveNamespacedAssets.php
+END

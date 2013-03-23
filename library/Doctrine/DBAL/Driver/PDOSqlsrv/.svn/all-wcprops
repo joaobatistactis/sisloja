@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/PDOSqlsrv
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/PDOSqlsrv/Driver.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/PDOSqlsrv/Connection.php
+END

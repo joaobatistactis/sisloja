@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Annotations/Annotation
+END
+Attributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Annotations/Annotation/Attributes.php
+END
+Attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Annotations/Annotation/Attribute.php
+END
+Required.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Annotations/Annotation/Required.php
+END
+IgnoreAnnotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Annotations/Annotation/IgnoreAnnotation.php
+END
+Target.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Annotations/Annotation/Target.php
+END

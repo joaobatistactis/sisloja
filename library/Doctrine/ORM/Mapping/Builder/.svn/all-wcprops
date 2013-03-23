@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Mapping/Builder
+END
+OneToManyAssociationBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Mapping/Builder/OneToManyAssociationBuilder.php
+END
+AssociationBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Mapping/Builder/AssociationBuilder.php
+END
+FieldBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Mapping/Builder/FieldBuilder.php
+END
+ManyToManyAssociationBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Mapping/Builder/ManyToManyAssociationBuilder.php
+END
+ClassMetadataBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Mapping/Builder/ClassMetadataBuilder.php
+END

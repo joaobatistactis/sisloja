@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Proxy
+END
+ProxyFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Proxy/ProxyFactory.php
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Proxy/Proxy.php
+END
+ProxyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Proxy/ProxyException.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Proxy/Autoloader.php
+END

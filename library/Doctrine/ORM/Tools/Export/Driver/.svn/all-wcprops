@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Export/Driver
+END
+XmlExporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Export/Driver/XmlExporter.php
+END
+YamlExporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Export/Driver/YamlExporter.php
+END
+PhpExporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Export/Driver/PhpExporter.php
+END
+AnnotationExporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Export/Driver/AnnotationExporter.php
+END
+AbstractExporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Export/Driver/AbstractExporter.php
+END

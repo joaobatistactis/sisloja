@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/IBMDB2
+END
+DB2Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/IBMDB2/DB2Statement.php
+END
+DB2Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/IBMDB2/DB2Exception.php
+END
+DB2Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/IBMDB2/DB2Driver.php
+END
+DB2Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/IBMDB2/DB2Connection.php
+END

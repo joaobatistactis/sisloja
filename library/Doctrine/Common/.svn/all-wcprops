@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common
+END
+NotifyPropertyChanged.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/NotifyPropertyChanged.php
+END
+EventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/EventArgs.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Version.php
+END
+Comparable.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Comparable.php
+END
+ClassLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/ClassLoader.php
+END
+Lexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Lexer.php
+END
+EventSubscriber.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/EventSubscriber.php
+END
+EventManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/EventManager.php
+END
+PropertyChangedListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/PropertyChangedListener.php
+END
+CommonException.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/CommonException.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Cache
+END
+ZendDataCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Cache/ZendDataCache.php
+END
+XcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Cache/XcacheCache.php
+END
+ArrayCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Cache/ArrayCache.php
+END
+MemcachedCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Cache/MemcachedCache.php
+END
+WinCacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Cache/WinCacheCache.php
+END
+ApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Cache/ApcCache.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Cache/Cache.php
+END
+CacheProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Cache/CacheProvider.php
+END
+MemcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Cache/MemcacheCache.php
+END

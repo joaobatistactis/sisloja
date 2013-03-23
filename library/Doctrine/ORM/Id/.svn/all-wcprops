@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Id
+END
+AbstractIdGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Id/AbstractIdGenerator.php
+END
+SequenceGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Id/SequenceGenerator.php
+END
+TableGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Id/TableGenerator.php
+END
+IdentityGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Id/IdentityGenerator.php
+END
+AssignedGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Id/AssignedGenerator.php
+END

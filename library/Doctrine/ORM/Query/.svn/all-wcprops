@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query
+END
+FilterCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/FilterCollection.php
+END
+QueryException.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/QueryException.php
+END
+ParameterTypeInferer.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/ParameterTypeInferer.php
+END
+ResultSetMapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/ResultSetMapping.php
+END
+Printer.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/Printer.php
+END
+TreeWalkerAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/TreeWalkerAdapter.php
+END
+ParserResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/ParserResult.php
+END
+Lexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/Lexer.php
+END
+TreeWalkerChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/TreeWalkerChain.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/Parser.php
+END
+ResultSetMappingBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/ResultSetMappingBuilder.php
+END
+SqlWalker.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/SqlWalker.php
+END
+TreeWalker.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/TreeWalker.php
+END
+Expr.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/Expr.php
+END

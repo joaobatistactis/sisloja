@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Console
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Console/LICENSE
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Console/Application.php
+END
+Shell.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Console/Shell.php
+END

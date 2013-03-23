@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/Mysqli
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/Mysqli/Driver.php
+END
+MysqliException.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/Mysqli/MysqliException.php
+END
+MysqliStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/Mysqli/MysqliStatement.php
+END
+MysqliConnection.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/Mysqli/MysqliConnection.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/Exec
+END
+SingleSelectExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/Exec/SingleSelectExecutor.php
+END
+SingleTableDeleteUpdateExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/Exec/SingleTableDeleteUpdateExecutor.php
+END
+AbstractSqlExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/Exec/AbstractSqlExecutor.php
+END
+MultiTableUpdateExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/Exec/MultiTableUpdateExecutor.php
+END
+MultiTableDeleteExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query/Exec/MultiTableDeleteExecutor.php
+END

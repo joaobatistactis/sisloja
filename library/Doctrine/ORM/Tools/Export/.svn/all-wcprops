@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Export
+END
+ClassMetadataExporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Export/ClassMetadataExporter.php
+END
+ExportException.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Export/ExportException.php
+END

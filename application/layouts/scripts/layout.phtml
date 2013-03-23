@@ -1,0 +1,38 @@
+<?php echo $this->doctype();?>
+<html>
+<head>
+	<title>Loja Virtual</title>
+    <meta charset="utf-8" />
+    <!-- CSS GERAL INICIO -->
+    <?php
+        $this->headLink()
+             ->setStylesheet('/css/bootstrap-responsive.css')
+             ->setStylesheet('/css/bootstrap-responsive.min.css')
+             ->setStylesheet('/css/bootstrap.css')
+             ->setStylesheet('/css/bootstrap.min.css');
+
+        echo $this->headLink();
+    ?>
+    <!-- JS GERAL INICIO -->
+    <?php
+        $this->headScript()->appendFile('/js/library/jquery.js');
+        $this->headScript()->appendFile('/js/library/jquery.dataTables.min.js');
+        $this->headScript()->appendFile('/js/components/grid.js');
+
+        echo $this->headScript();?>
+    </head>
+<body>
+	<?php echo $this->menu();?>
+    <br><br><br>
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="span3">
+            </div>
+            <div class="span9">
+                <?php echo $this->message()?>
+                <?php echo $this->layout()->content ?>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

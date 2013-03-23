@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types
+END
+FloatType.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/FloatType.php
+END
+BlobType.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/BlobType.php
+END
+IntegerType.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/IntegerType.php
+END
+ConversionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/ConversionException.php
+END
+ObjectType.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/ObjectType.php
+END
+Type.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/Type.php
+END
+DateTimeTzType.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/DateTimeTzType.php
+END
+VarDateTimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/VarDateTimeType.php
+END
+BooleanType.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/BooleanType.php
+END
+SmallIntType.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/SmallIntType.php
+END
+TimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/TimeType.php
+END
+TextType.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/TextType.php
+END
+DateType.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/DateType.php
+END
+BigIntType.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/BigIntType.php
+END
+DecimalType.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/DecimalType.php
+END
+StringType.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/StringType.php
+END
+ArrayType.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/ArrayType.php
+END
+DateTimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Types/DateTimeType.php
+END

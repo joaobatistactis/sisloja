@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Configuration.php
+END
+OptimisticLockException.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/OptimisticLockException.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Version.php
+END
+Events.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Events.php
+END
+PessimisticLockException.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/PessimisticLockException.php
+END
+EntityNotFoundException.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/EntityNotFoundException.php
+END
+ORMException.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/ORMException.php
+END
+ORMInvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/ORMInvalidArgumentException.php
+END
+README.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/README.markdown
+END
+AbstractQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/AbstractQuery.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Query.php
+END
+EntityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/EntityManager.php
+END
+UnitOfWork.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/UnitOfWork.php
+END
+EntityRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/EntityRepository.php
+END
+NoResultException.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/NoResultException.php
+END
+NativeQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/NativeQuery.php
+END
+TransactionRequiredException.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/TransactionRequiredException.php
+END
+QueryBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/QueryBuilder.php
+END
+NonUniqueResultException.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/NonUniqueResultException.php
+END
+PersistentCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/PersistentCollection.php
+END

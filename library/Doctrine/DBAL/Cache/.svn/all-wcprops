@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Cache
+END
+ArrayStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Cache/ArrayStatement.php
+END
+ResultCacheStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Cache/ResultCacheStatement.php
+END
+CacheException.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Cache/CacheException.php
+END
+QueryCacheProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Cache/QueryCacheProfile.php
+END

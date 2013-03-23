@@ -1,0 +1,39 @@
+<script type="text/javascript" src="/js/sisloja/produto/index.js" > </script>
+<h1>Pesquisar produto</h1>
+<br />
+<div class="row-fluid">
+    <div class="span12">
+        <form class="form-horizontal" method="post" id="form-produto" action="list">
+                <div class="control-group">
+                    <label class="control-label" id="labelCPF" for="nuCpf"> Nome </label>
+                    <div class="controls inline">
+                        <div class="input-append">
+                            <input type="text" class="input-medium" id="noProduto" name="noProduto"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label"> Preço </label>
+                    <div class="controls inline">
+                        <div class="input-append">
+                            <input type="text" class="input-medium" id="nuPreco" name="nuPreco"/>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary" id="btnPesquisa" >Pesquisar</button>
+                </div>
+
+        </form>
+    </div>
+</div>
+<table class="hide" id="tabela-pesquisa-produto">
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Preço</th>
+      </tr>
+    </thead>
+</table>

@@ -1,0 +1,30 @@
+<h1>Cadastrar Produto</h1>
+<br />
+<div class="row-fluid">
+    <div class="span12">
+        <form class="form-horizontal" id="debito-search-form" action="<?php echo $this->urlCurrent (array('controller' =>'produto','action' =>'save' ) )?>">
+        <br />
+                <div class="control-group">
+                    <label class="control-label"> Nome </label>
+                    <div class="controls inline">
+                        <div class="input-append">
+                            <input type="text" class="input-medium" id="noProduto" name="noProduto"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label"> Preço </label>
+                    <div class="controls inline">
+                        <div class="input-append">
+                            <input type="text" class="input-medium" id="nuPreco" name="nuPreco"/>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary" >Cadastrar</button>
+                </div>
+
+        </form>
+    </div>
+</div>

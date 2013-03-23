@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Yaml
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Yaml/LICENSE
+END
+Yaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Yaml/Yaml.php
+END
+Unescaper.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Yaml/Unescaper.php
+END
+Inline.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Yaml/Inline.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Yaml/Parser.php
+END
+Dumper.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Yaml/Dumper.php
+END
+Escaper.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Symfony/Component/Yaml/Escaper.php
+END

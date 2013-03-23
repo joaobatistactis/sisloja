@@ -1,0 +1,18 @@
+<?php
+
+$aaData = array();
+$count  = count($this->result['data']);
+
+foreach($this->result['data'] as $result) {
+    $aaData[] = array(
+        $result['noProduto'],
+        number_format($result['nuPreco'],2,',','')
+    );
+}
+
+echo json_encode(array(
+    'aaData' => $aaData,
+    'iTotalDisplayRecords' => $count,
+    'iTotalRecords' => $this->result['total'],
+    'sEcho' => $this->result['sEcho']
+));

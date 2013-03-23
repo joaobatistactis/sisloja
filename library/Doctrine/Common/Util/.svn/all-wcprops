@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Util
+END
+ClassUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Util/ClassUtils.php
+END
+Inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Util/Inflector.php
+END
+Debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Util/Debug.php
+END

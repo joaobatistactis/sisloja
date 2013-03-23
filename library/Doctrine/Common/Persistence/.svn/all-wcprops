@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence
+END
+PersistentObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/PersistentObject.php
+END
+AbstractManagerRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/AbstractManagerRegistry.php
+END
+ObjectRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/ObjectRepository.php
+END
+ManagerRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/ManagerRegistry.php
+END
+ConnectionRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/ConnectionRegistry.php
+END
+ObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/ObjectManager.php
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/Proxy.php
+END
+ObjectManagerAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/ObjectManagerAware.php
+END

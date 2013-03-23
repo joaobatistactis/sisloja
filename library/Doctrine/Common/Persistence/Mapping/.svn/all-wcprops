@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/Mapping
+END
+ClassMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/Mapping/ClassMetadata.php
+END
+ReflectionService.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/Mapping/ReflectionService.php
+END
+StaticReflectionService.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/Mapping/StaticReflectionService.php
+END
+MappingException.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/Mapping/MappingException.php
+END
+RuntimeReflectionService.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/Mapping/RuntimeReflectionService.php
+END
+ClassMetadataFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/Mapping/ClassMetadataFactory.php
+END
+AbstractClassMetadataFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php
+END

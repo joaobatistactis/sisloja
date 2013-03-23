@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Persisters
+END
+ElementCollectionPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Persisters/ElementCollectionPersister.php
+END
+ManyToManyPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Persisters/ManyToManyPersister.php
+END
+UnionSubclassPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Persisters/UnionSubclassPersister.php
+END
+SingleTablePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Persisters/SingleTablePersister.php
+END
+AbstractEntityInheritancePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Persisters/AbstractEntityInheritancePersister.php
+END
+JoinedSubclassPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Persisters/JoinedSubclassPersister.php
+END
+BasicEntityPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Persisters/BasicEntityPersister.php
+END
+OneToManyPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Persisters/OneToManyPersister.php
+END
+AbstractCollectionPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Persisters/AbstractCollectionPersister.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Console/Command
+END
+ConvertDoctrine1SchemaCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Console/Command/ConvertDoctrine1SchemaCommand.php
+END
+RunDqlCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Console/Command/RunDqlCommand.php
+END
+InfoCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Console/Command/InfoCommand.php
+END
+GenerateRepositoriesCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Console/Command/GenerateRepositoriesCommand.php
+END
+ConvertMappingCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Console/Command/ConvertMappingCommand.php
+END
+EnsureProductionSettingsCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Console/Command/EnsureProductionSettingsCommand.php
+END
+ValidateSchemaCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Console/Command/ValidateSchemaCommand.php
+END
+GenerateProxiesCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Console/Command/GenerateProxiesCommand.php
+END
+GenerateEntitiesCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/ORM/Tools/Console/Command/GenerateEntitiesCommand.php
+END

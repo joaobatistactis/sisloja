@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event
+END
+SchemaCreateTableEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaCreateTableEventArgs.php
+END
+SchemaEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaEventArgs.php
+END
+SchemaAlterTableChangeColumnEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaAlterTableChangeColumnEventArgs.php
+END
+SchemaDropTableEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaDropTableEventArgs.php
+END
+ConnectionEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/ConnectionEventArgs.php
+END
+SchemaAlterTableAddColumnEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaAlterTableAddColumnEventArgs.php
+END
+SchemaAlterTableRenameColumnEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaAlterTableRenameColumnEventArgs.php
+END
+SchemaColumnDefinitionEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaColumnDefinitionEventArgs.php
+END
+SchemaAlterTableEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaAlterTableEventArgs.php
+END
+SchemaCreateTableColumnEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaCreateTableColumnEventArgs.php
+END
+SchemaIndexDefinitionEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaIndexDefinitionEventArgs.php
+END
+SchemaAlterTableRemoveColumnEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Event/SchemaAlterTableRemoveColumnEventArgs.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/OCI8
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/OCI8/Driver.php
+END
+OCI8Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/OCI8/OCI8Exception.php
+END
+OCI8Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/OCI8/OCI8Statement.php
+END
+OCI8Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CTIS_ARQPHP/!svn/ver/723/tags/2.0.0rc2/library/Doctrine/DBAL/Driver/OCI8/OCI8Connection.php
+END

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <nav>
+		<default>
+		    <label>Sistema Loja Virtual</label>
+		    <module>default</module>
+		    <controller>index</controller>
+		    <action>index</action>
+		    <class>brand menu</class>
+		</default>
+		<produtos>
+		    <label>Produtos</label>
+		    <module>produto</module>
+		    <controller>produto</controller>
+		    <action>index</action>
+		    <class>brand sub-menu</class>
+		</produtos>
+        <categorias>
+		    <label>Categorias</label>
+		    <module>categoria</module>
+		    <controller>categoria</controller>
+		    <action>index</action>
+		    <class>brand sub-menu</class>
+		</categorias>
+	        <fornecedores>
+		    <label>Fornecedores</label>
+		    <module>fornecedor</module>
+		    <controller>fornecedor</controller>
+		    <action>index</action>
+		    <class>brand sub-menu</class>
+		</fornecedores>
+    </nav>    
+</config>

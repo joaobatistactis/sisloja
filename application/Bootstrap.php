@@ -27,5 +27,13 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
         $autoloader->pushAutoloader(array('Bootstrap', 'modelsAutoload'), 'Application\\Model\\');
     }
 
+//     protected function _initNavigation() {
+//        $this->bootstrap ( 'layout' );
+//        $layout = $this->getResource ( 'layout' );
+//        $view = $layout->getView ();
+//        $config = new Zend_Config_Ini ( APPLICATION_PATH . '/configs/navigation.ini' ); // caso tenha trocado o nome ou local do arquivo, modifique esta linha
+//        $navigation = new Zend_Navigation ( $config );
+//        $view->navigation ( $navigation );
+//     }
 }
 

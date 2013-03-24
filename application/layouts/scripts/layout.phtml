@@ -6,10 +6,11 @@
     <!-- CSS GERAL INICIO -->
     <?php
         $this->headLink()
-             ->setStylesheet('/css/bootstrap-responsive.css')
-             ->setStylesheet('/css/bootstrap-responsive.min.css')
-             ->setStylesheet('/css/bootstrap.css')
-             ->setStylesheet('/css/bootstrap.min.css');
+             ->setStylesheet('/css/bootstrap.min.css')
+             ->appendStylesheet('/css/estilo.css')
+             ->appendStylesheet('/css/bootstrap-responsive.css')
+             ->appendStylesheet('/css/bootstrap-responsive.min.css')
+             ->appendStylesheet('/css/bootstrap.css');
 
         echo $this->headLink();
     ?>
@@ -22,7 +23,17 @@
         echo $this->headScript();?>
     </head>
 <body>
-	<?php echo $this->menu();?>
+<div class="navbar navbar-inverse navbar-fixed-top">
+	<div class="navbar-inner">
+	    <div class="container">
+	        <div class="nav-collapse collapse">
+            <?php echo $this->navigation()?>
+	        </div><!--/.nav-collapse -->
+	    </div>
+	</div>
+</div>
+<br />
+<br />
     <br><br><br>
     <div class="container-fluid">
         <div class="row-fluid">

@@ -4,9 +4,10 @@ $aaData = array();
 $count  = count($this->result['data']);
 
 foreach($this->result['data'] as $result) {
+	$nuPreco = number_format($result['nuPreco'],2,',','');
     $aaData[] = array(
         $result['noProduto'],
-        number_format($result['nuPreco'],2,',','')
+        $nuPreco
     );
 }
 
